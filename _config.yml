@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex D Carroll
+# title: Alex Carroll
 email: carrollalexd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Automated software testing that doesn't suck.
+  Thoughts on writing clean, elegant, and effective automated test code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alex-d-carroll.github.io/" # the base hostname & protocol for your site, e.g. http://example.com 
 github_username:  alex-d-carroll
 linkedin_username: alexdcarroll
 
 # Build settings
-theme: Lanyon
+theme: minima
 plugins:
   - jekyll-feed
 
