@@ -21,10 +21,11 @@
 title: Alex D Carroll
 email: carrollalexd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts on crafting clean automated software tests.
+  Automated software testing that doesn't suck.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alex-d-carroll.github.io/" # the base hostname & protocol for your site, e.g. http://example.com 
 github_username:  alex-d-carroll
+linkedin_username: alexdcarroll
 
 # Build settings
 theme: minima
