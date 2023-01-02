@@ -28,7 +28,7 @@ github_username:  alex-d-carroll
 linkedin_username: alexdcarroll
 
 # Build settings
-theme: minima
+theme: Lanyon
 plugins:
   - jekyll-feed
 
