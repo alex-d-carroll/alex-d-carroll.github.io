@@ -4,3 +4,4 @@
 
 layout: home
 ---
+[Resume](https://alex-d-carroll.github.io/carroll-alex-2022-resume.pdf:)
