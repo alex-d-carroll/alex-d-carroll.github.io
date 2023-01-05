@@ -35,10 +35,6 @@ plugins:
 minima:
   skin: dark
 
-header_pages:
-  - about.markdown
-  - [Resume](carroll-alex-2022-resume.pdf)
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
