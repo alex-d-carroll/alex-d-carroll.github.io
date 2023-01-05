@@ -36,8 +36,8 @@ minima:
   skin: dark
 
 header_pages:
-  - about.md
-  - carroll-alex-2022-resume.pdf
+  - about.markdown
+  - [Resume](carroll-alex-2022-resume.pdf)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
