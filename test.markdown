@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Resume
-permalink: /about/
+permalink: /Resume/
 ---
 Test navigation.
