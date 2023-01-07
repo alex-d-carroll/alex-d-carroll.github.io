@@ -18,6 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+header_pages:
+  - test.markdown
+  - about.markdown
+
 title: Alex Carroll
 email: carrollalexd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
