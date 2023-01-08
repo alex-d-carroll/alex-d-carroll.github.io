@@ -21,6 +21,7 @@
 header_pages:
   - test.markdown
   - about.markdown
+  - resume.pdf
 
 title: Alex Carroll
 email: carrollalexd@gmail.com
