@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
-permalink: /Resume/
+title: Test
+permalink: /Test/
 ---
 Test navigation.
